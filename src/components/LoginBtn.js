@@ -2,6 +2,9 @@ import React from 'react';
 import styled from '@emotion/styled';
 
 const Container = styled.div`
+  button {
+    margin-right:20px;
+  }
   div {
     margin-bottom:10px;
     padding: 10px;
